@@ -16,7 +16,7 @@ ESnake is a two-dimensional game where the player must maneuver a line that grow
 5.	After the game ends the player must press the reset button to exit the message screen.
 ## Technologies and Components
 ### Technologies:
-1.	Atmel Studios 7 - used to write the code use in the game.
+1.	Atmel Studios 7 - used to write the code used in the game.
 2.	Analog-to-Digital Converter - used to convert the analog signal given by the joystick and convert to values that allowed the direction of the joystick to be determined.
 3.	Pulse Width Modulation - used to pulse the voltage supplied to the speaker to generate audio signals at specific frequency.
 4.	Linear Feedback Shift Register - used to implement the randomness in the game. 
